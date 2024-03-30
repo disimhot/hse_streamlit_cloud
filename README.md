@@ -1,1 +1,3 @@
-# hse_streamlit_cloud
+# Streamlit project is made for learning courses. 
+The author is Elena Efimova.
+The Diabetes Dataset contains information about individuals diagnosed with diabetes, including demographic attributes, medical history, and clinical measurements. This dataset serves as a valuable resource for studying diabetes management, risk factors, and predictive modeling for disease outcomes. The dataset link is https://www.kaggle.com/datasets/ehababoelnaga/diabetes-dataset
