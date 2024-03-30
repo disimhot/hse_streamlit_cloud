@@ -10,8 +10,8 @@ import seaborn as sns
 import numpy as np
 
 # constants
-TRAIN = 'data/training.csv'
-TEST = 'data/testing.csv'
+TRAIN = 'data/Training.csv'
+TEST = 'data/Testing.csv'
 
 st.balloons()
 # functions
